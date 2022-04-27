@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohan Dey</h1>
 <h3 align="center">A passionate student/developer studying Computer Science at the University of Toronto.</h3>
 
-- 📫 I am currently looking for **Summer 2022 Internships**
+- 📫 I am currently looking for **Winter 2023 Internships**
 
 - 📄 You can view my portfolio website at [https://rohandey02.github.io/RohanDey/](https://rohandey02.github.io/RohanDey/)
 
