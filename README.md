@@ -4,7 +4,7 @@
 
 ### <div align="center">I'm Rohan, a passionate student/developer studying Computer Science at the University of Toronto.</div>
 
-- 📫 I am currently looking for Winter 2023 Internships
+- 📫 I am currently looking for Fall 2023 Internships
 - 🔖 You can connect with me on LinkedIn at https://www.linkedin.com/in/rohan-dey-30ba9b1b6/
 - 📄 You can view my portfolio website at https://rohandey02.github.io/RohanDey/
 
