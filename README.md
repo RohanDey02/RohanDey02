@@ -1,7 +1,3 @@
-<div align="center">
-<img src="greetings.gif" align="center" style="width: 50%" />
-</div>
-
 ### <div align="center">I'm Rohan, a passionate student/developer studying Computer Science at the University of Toronto.</div>
 
 - 📫 I am currently looking for Fall 2023 Internships
