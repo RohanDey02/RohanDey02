@@ -40,5 +40,9 @@ You can also check out my portfolio page here:
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanDey02&hide_border=true&layout=compact" style="width: 30%" />
-<img src="https://github-readme-stats.vercel.app/api?username=RohanDey02&count_private=true&show_icons=true&include_all_commits=true" style="width: 30%" />
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanDey02&hide_border=true&layout=compact" style="width: 35%" />
+</div>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=RohanDey02&count_private=true&show_icons=true&include_all_commits=true" style="width: 35%" />
+</div>
