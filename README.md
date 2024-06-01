@@ -41,5 +41,4 @@ You can also check out my portfolio page here:
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanDey02&hide_border=true&layout=compact" style="width: 30%" />
-<br>
 <img src="https://github-readme-stats.vercel.app/api?username=RohanDey02&count_private=true&show_icons=true&include_all_commits=true" style="width: 30%" />
