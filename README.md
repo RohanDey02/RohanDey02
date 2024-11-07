@@ -72,9 +72,6 @@
 <h2>Connect with Me</h2>
 
 <p>
-  <a href="https://github.com/RohanDey02">
-    <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/github.svg" width="40" height="40" title="github" />
-  </a>
   <a href="https://www.linkedin.com/in/rohan-dey-30ba9b1b6/">
     <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" title="linked-in-alt" />
   </a>
