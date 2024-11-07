@@ -1,58 +1,82 @@
-# 👋 Hey there! I'm Rohan Dey
+<h1 align="center">Hello World! 👋 I'm Rohan Dey</h1>
 
-I'm a recent **Computer Science graduate from the [University of Toronto](https://www.utoronto.ca/)** and a passionate tech enthusiast. I'm always excited to collaborate on innovative ideas and cutting-edge projects. Feel free to connect!
+<h5 align="center">I'm a recent Computer Science graduate from the University of Toronto and a passionate software developer. I'm always excited to collaborate on innovative ideas and cutting-edge projects. Feel free to connect!</h5><br>
 
-[![LinkedIn](https://img.shields.io/badge/-rohan--dey--30ba9b1b6-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/rohan-dey-30ba9b1b6/)](https://www.linkedin.com/in/rohan-dey-30ba9b1b6/)
-[![Email](https://img.shields.io/badge/-deyrohan15@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deyrohan15@gmail.com)](mailto:deyrohan15@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio_Page-gray?style=flat-square&logo=GitHub&logoColor=white&link=https://rohandey02.github.io/RohanDey/)](https://rohandey02.github.io/RohanDey/)
+<h2 align="left">Some Facts About Me</h2>
 
----
+- 📫 How to reach me *[https://www.linkedin.com/in/rohan-dey-30ba9b1b6/](https://www.linkedin.com/in/rohan-dey-30ba9b1b6/)*
 
-## ⚡ Technologies & Tools
+<h2 align="left">Skillset</h2>
 
-**Languages**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk)
-![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat-square&logo=c)
+<h3 align="left">Programming Languages:</h3>
 
-**Frameworks & Libraries**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/c.svg" width='40' height='40' title='c'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/cpp.svg" width='40' height='40' title='cpp'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/java.svg" width='40' height='40' title='java'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/javascript.svg" width='40' height='40' title='javascript'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/python.svg" width='40' height='40' title='python'/></p>
 
-**Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform)
+<h3 align="left">Frontend Development:</h3>
 
-**Databases**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
+<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/reactjs.svg" width='40' height='40' title='reactjs'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/angularjs.svg" width='40' height='40' title='angularjs'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/bootstrap.svg" width='40' height='40' title='bootstrap'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/html.svg" width='40' height='40' title='html'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/css.svg" width='40' height='40' title='css'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/sass.svg" width='40' height='40' title='sass'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/webpack.svg" width='40' height='40' title='webpack'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/babel.svg" width='40' height='40' title='babel'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/tailwind.svg" width='40' height='40' title='tailwind'/></p>
 
-**Other Tools**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi)
+<h3 align="left">Backend Development:</h3>
 
----
+<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/nodejs.svg" width='40' height='40' title='nodejs'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/spring.svg" width='40' height='40' title='spring'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/express.svg" width='40' height='40' title='express'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/kafka.svg" width='40' height='40' title='kafka'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/nginx.svg" width='40' height='40' title='nginx'/></p>
 
-## 📊 GitHub Stats
+<h3 align="left">Mobile App Development:</h3>
 
-<div style="display: flex; flex-direction: row;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanDey02&hide_border=true&layout=compact" style="width: 20vw" />
-  <img src="https://github-readme-stats.vercel.app/api?username=RohanDey02&count_private=true&show_icons=true&include_all_commits=true" style="width: 20vw" />
+<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/MobileAppDevelopment/reactnative.svg" width='40' height='40' title='reactnative'/></p>
+
+<h3 align="left">Database Management:</h3>
+
+<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/mongodb.svg" width='40' height='40' title='mongodb'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/elasticsearch.svg" width='40' height='40' title='elasticsearch'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/mysql.svg" width='40' height='40' title='mysql'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/postgresql.svg" width='40' height='40' title='postgresql'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/redis.svg" width='40' height='40' title='redis'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/sqlite.svg" width='40' height='40' title='sqlite'/></p>
+
+<h3 align="left">Data Visualization:</h3>
+
+<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/DataVisualization/grafana.svg" width='40' height='40' title='grafana'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/DataVisualization/kibana.svg" width='40' height='40' title='kibana'/></p>
+
+<h3 align="left">Devops:</h3>
+
+<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Devops/aws.svg" width='40' height='40' title='aws'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Devops/bash.svg" width='40' height='40' title='bash'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Devops/docker.svg" width='40' height='40' title='docker'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Devops/kubernetes.svg" width='40' height='40' title='kubernetes'/></p>
+
+<h3 align="left">Backend as a Service (BaaS):</h3>
+
+<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BaaS/firebase.svg" width='40' height='40' title='firebase'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BaaS/heroku.svg" width='40' height='40' title='heroku'/></p>
+
+<h3 align="left">Frameworks:</h3>
+
+<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Framework/django.svg" width='40' height='40' title='django'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Framework/flask.svg" width='40' height='40' title='flask'/></p>
+
+<h3 align="left">Testing:</h3>
+
+<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Testing/karma.svg" width='40' height='40' title='karma'/></p>
+
+<h3 align="left">Softwares:</h3>
+
+<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Software/figma.svg" width='40' height='40' title='figma'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Software/postman.svg" width='40' height='40' title='postman'/></p>
+
+<h3 align="left">Static Site Generators:</h3>
+
+<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/StaticSiteGenerators/nextjs.svg" width='40' height='40' title='nextjs'/></p>
+
+<h3 align="left">Others:</h3>
+
+<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/git.svg" width='40' height='40' title='git'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/linux.svg" width='40' height='40' title='linux'/></p>
+
+<hr>
+
+<div>
+  <img width="40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RohanDey02&show_icons=true&locale=en&layout=compact" />
+  <img width="40%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=RohanDey02&" />
 </div>
 
----
+<br clear="both"><hr>
 
-Looking forward to connecting and building something amazing together! ✨
+<h2>Connect with Me</h2>
+
+<p>
+  <a href="https://github.com/RohanDey02">
+    <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/github.svg" width="40" height="40" title="github" />
+  </a>
+  <a href="https://www.linkedin.com/in/rohan-dey-30ba9b1b6/">
+    <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" title="linked-in-alt" />
+  </a>
+</p>
+
