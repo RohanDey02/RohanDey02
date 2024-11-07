@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! 👋 I'm Rohan Dey</h1>
+<h1 align="center">Hey there! 👋 I'm Rohan Dey</h1>
 
 <h5 align="center">I'm a recent Computer Science graduate from the University of Toronto and a passionate software developer. I'm always excited to collaborate on innovative ideas and cutting-edge projects. Feel free to connect!</h5><br>
 
