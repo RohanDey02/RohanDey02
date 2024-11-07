@@ -49,8 +49,8 @@ I'm a recent **Computer Science graduate from the [University of Toronto](https:
 ## 📊 GitHub Stats
 
 <div style="display: flex; flex-direction: row;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanDey02&hide_border=true&layout=compact" style="width: 25vw" />
-  <img src="https://github-readme-stats.vercel.app/api?username=RohanDey02&count_private=true&show_icons=true&include_all_commits=true" style="width: 25vw" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanDey02&hide_border=true&layout=compact" style="width: 20vw" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RohanDey02&count_private=true&show_icons=true&include_all_commits=true" style="width: 20vw" />
 </div>
 
 ---
