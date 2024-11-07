@@ -2,9 +2,13 @@
 
 <h5 align="center">I'm a recent Computer Science graduate from the University of Toronto and a passionate software developer. I'm always excited to collaborate on innovative ideas and cutting-edge projects. Feel free to connect!</h5><br>
 
-<h2 align="left">Some Facts About Me</h2>
+<h2 align="left">Connect with me</h2>
 
-- 📫 How to reach me *[https://www.linkedin.com/in/rohan-dey-30ba9b1b6/](https://www.linkedin.com/in/rohan-dey-30ba9b1b6/)*
+<p>
+  <a href="https://www.linkedin.com/in/rohan-dey-30ba9b1b6/">
+    <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" title="linked-in-alt" />
+  </a>
+</p>
 
 <h2 align="left">Skillset</h2>
 
@@ -68,12 +72,3 @@
 </div>
 
 <br clear="both"><hr>
-
-<h2>Connect with Me</h2>
-
-<p>
-  <a href="https://www.linkedin.com/in/rohan-dey-30ba9b1b6/">
-    <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" title="linked-in-alt" />
-  </a>
-</p>
-
