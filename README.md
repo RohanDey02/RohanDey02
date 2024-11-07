@@ -1,48 +1,58 @@
-## Hey there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+# 👋 Hey there! I'm Rohan Dey
 
-I am Rohan Dey, a recent computer science graduate from the [University of Toronto](https://www.utoronto.ca/). I am a passionate tech enthusiast who is always open to collaborating on projects and innovative ideas. Feel free to connect with me here:
+I'm a recent **Computer Science graduate from the [University of Toronto](https://www.utoronto.ca/)** and a passionate tech enthusiast. I'm always excited to collaborate on innovative ideas and cutting-edge projects. Feel free to connect!
 
-[![Linkedin Badge](https://img.shields.io/badge/-rohan--dey--30ba9b1b6-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohan-dey-30ba9b1b6/)](https://www.linkedin.com/in/rohan-dey-30ba9b1b6/)
-[![Gmail Badge](https://img.shields.io/badge/-deyrohan15@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deyrohan15@gmail.com)](mailto:deyrohan15@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-rohan--dey--30ba9b1b6-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/rohan-dey-30ba9b1b6/)](https://www.linkedin.com/in/rohan-dey-30ba9b1b6/)
+[![Email](https://img.shields.io/badge/-deyrohan15@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deyrohan15@gmail.com)](mailto:deyrohan15@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio_Page-gray?style=flat-square&logo=GitHub&logoColor=white&link=https://rohandey02.github.io/RohanDey/)](https://rohandey02.github.io/RohanDey/)
 
-You can also check out my portfolio page here:
+---
 
-[![GitHub Badge](https://img.shields.io/badge/-My_Portfolio_Page-gray?style=flat-square&logo=GitHub&logoColor=white&link=https://rohandey02.github.io/RohanDey/)](https://rohandey02.github.io/RohanDey/)
+## ⚡ Technologies & Tools
 
-## ⚡ Technologies
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=openjdk)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-430098?style=flat-square&logo=kubernetes)
+**Languages**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk)
 ![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat-square&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-430098?style=flat-square&logo=typescript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Terraform](https://img.shields.io/badge/Terraform-00599C?style=flat-square&logo=terraform)
-![Expressjs](https://img.shields.io/badge/-Express-white?style=flat-square&logo=express&logoColor=black)
-![Flask](https://img.shields.io/badge/-Flask-darkred?style=flat-square&logo=flask)
-![Django](https://img.shields.io/badge/-Django-181717?style=flat-square&logo=django)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-orange?style=flat-square&logo=gitlab)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanDey02&hide_border=true&layout=compact" style="width: 35%" />
+**Frameworks & Libraries**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform)
+
+**Databases**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
+
+**Other Tools**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi)
+
+---
+
+## 📊 GitHub Stats
+
+<div style="display: flex; flex-direction: row;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanDey02&hide_border=true&layout=compact" style="width: 25vw" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RohanDey02&count_private=true&show_icons=true&include_all_commits=true" style="width: 25vw" />
 </div>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=RohanDey02&count_private=true&show_icons=true&include_all_commits=true" style="width: 35%" />
-</div>
+
+---
+
+Looking forward to connecting and building something amazing together! ✨
