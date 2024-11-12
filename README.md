@@ -58,7 +58,7 @@
 
 <h3 align="left">Static Site Generators:</h3>
 
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/StaticSiteGenerators/nextjs.svg" width='40' height='40' title='nextjs'/></p>
+<p align='left'><img src="https://ih1.redbubble.net/image.4928907793.7534/st,small,507x507-pad,600x600,f8f8f8.jpg" width='40' height='40' title='nextjs'/></p>
 
 <h3 align="left">Others:</h3>
 
